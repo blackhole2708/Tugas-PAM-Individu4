@@ -21,6 +21,7 @@ Guess Number adalah aplikasi game sederhana dimana pengguna memasukkan angka yan
 # Package
 - npm 7.17.0
 - expo ~42.0.1
+- expo-random
 - react 16.13.1
 - react-native sdk-42.0.0
 - react-native-web ~0.13.12
