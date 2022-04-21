@@ -11,6 +11,13 @@ Guess Number Game
 # Deskripi Aplikasi
 Guess Number adalah aplikasi game sederhana dimana pengguna memasukkan angka yang ingin ditebak oleh program. Lalu program akan menebak dengan opsi 'Lower' yang artinya lebih kecil dari angka yang dimunculkan atau 'Greater' yang artinya lebih besar dari angka yang dimunculkan.
 
+![Tampilan1](https://user-images.githubusercontent.com/89154087/164375676-765d7705-46fb-4505-af99-1ac8401ce73a.jpg)
+![Tampilan2](https://user-images.githubusercontent.com/89154087/164375834-ad09e95a-03cf-415c-8fb9-757405f1a192.jpg)
+![Tampilan3](https://user-images.githubusercontent.com/89154087/164375874-3f334325-0c66-4536-a196-557de516e764.jpg)
+![Tampilan4](https://user-images.githubusercontent.com/89154087/164375904-22d1caba-4907-407f-ae32-70fa59d5642c.jpg)
+![Tampilan5](https://user-images.githubusercontent.com/89154087/164375909-7f84904f-f369-49eb-a259-6d1a123f6197.jpg)
+
+
 # Package
 - npm 7.17.0
 - expo ~42.0.1
